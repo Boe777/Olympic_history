@@ -1,6 +1,6 @@
 # Olympic History
 An analysis of the "120 years of Olympic history: athletes and results" dataset.
-This study sought answers to the following research questions.
+This study sought answers to the following research questions. 
 
 1. **How has female participation in the Olympic Games evolved across time, sports, and countries?**
    - What percentage of athletes were female in each Olympic year?
